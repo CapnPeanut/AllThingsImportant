@@ -1,2 +1,2 @@
-# AllThingsImportant
-All things important static website 
+# batch_codelou
+Project for Code Louisville
