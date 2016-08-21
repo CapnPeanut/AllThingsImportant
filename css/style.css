@@ -28,6 +28,14 @@ Header
 Navigation Bar
 ********************************************/
 
+#AllThingsImportant {
+    
+    color: whitesmoke;
+    float: left;
+    margin-top: auto;
+    padding-top: 1em;
+    padding-left: 1em;
+}
 
 
 /********************************************
